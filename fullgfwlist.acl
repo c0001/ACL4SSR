@@ -25,6 +25,7 @@
 (^|\.)dmm\.co\.jp$
 (^|\.)githubusercontent\.com$
 (^|\.)gvt\w\.com$
+(^|\.)greasyfork.org$
 (^|\.)forum.manjaro.org$
 (^|\.)microsoft\.com$
 (^|\.)ping\.pe$
