@@ -23,6 +23,7 @@
 (^|\.)cloudcone\.com$
 (^|\.)cloudfront\.net$
 (^|\.)dmm\.co\.jp$
+(^|\.)github\.com$
 (^|\.)githubusercontent\.com$
 (^|\.)gvt\w\.com$
 (^|\.)greasyfork.org$
@@ -30,6 +31,7 @@
 (^|\.)microsoft\.com$
 (^|\.)ping\.pe$
 (^|\.)s3\.amazonaws\.com$
+(^|\.)tasker\.joaoapps\.com$
 (^|\.)tumbex\.com$
 (^|\.)tvb\.com$
 (^|\.)twdvd\.com$
@@ -39,6 +41,8 @@
 (^|\.)ec2-54-174-178-70\.computer-1\.amazonaws\.com$
 (^|\.)ec2-54-175-2-194\.computer-1\.amazonaws\.com$
 (^|\.)ec2-54-210-54-246\.computer-1\.amazonaws\.com$
+(^|\.)wiki\.archlinux\.org$
+(^|\.)addons\.mozilla\.org$
 
 #GFWList IP start
 85.17.73.31
