@@ -43,6 +43,7 @@
 (^|\.)ec2-54-210-54-246\.computer-1\.amazonaws\.com$
 (^|\.)wiki\.archlinux\.org$
 (^|\.)addons\.mozilla\.org$
+(^|\.)f-droid\.org$
 
 #GFWList IP start
 85.17.73.31
