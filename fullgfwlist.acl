@@ -44,6 +44,7 @@
 (^|\.)wiki\.archlinux\.org$
 (^|\.)addons\.mozilla\.org$
 (^|\.)f-droid\.org$
+(^|\.)git\.savannah\.gnu\.org$
 
 #GFWList IP start
 85.17.73.31
